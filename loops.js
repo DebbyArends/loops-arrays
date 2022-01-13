@@ -46,9 +46,6 @@ for (let i = 0; i < 15; i++) {
             console.log(i + " is oneven")}
     }
 
-
-
-
 // ==========================================
 // [BONUSOPDRACHT] - optioneel: maak een for-loop die van 0 tot 9 loopt en de getallen 0 tot 9 logt.
 // Echter, vanaf het getal 3 komt er een > voor ieder getal te staan, en vanaf het getal 6 komt er >> voor ieder getal te staan.
